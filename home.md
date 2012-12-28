@@ -2,4 +2,5 @@
 
 C'est ici que tout commence !
 
-[[key1]]
+@tags : home
+
